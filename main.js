@@ -1,1 +1,4 @@
-document.querySelector('#tecla_som_pom').play()
+function tocarSomPom(){
+    document.querySelector('#tecla_som_pom').play();
+}
+
